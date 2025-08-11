@@ -28,7 +28,6 @@ Over a span of 8 weeks, I completed a comprehensive curriculum blending **Platfo
 - Multi-Factor Authentication, Access Governance  
 - Agentforce Development & AI Prompt Projects
 
-> For a full breakdown of completed modules, superbadges, and points earned, see the `docs/completion_log.md`.
 
 ---
 
@@ -40,7 +39,7 @@ You can view my official internship certificate here:
 
 ##  External Profiles & Verification
 - **Trailblazer Profile:** [Salesforce Trailblazer Journey](https://www.salesforce.com/trailblazer/rvic0m96n3gv1n47np)  
-- **LinkedIn:** [Avinash N on LinkedIn](https://www.linkedin.com/in/avinash-nandipati/)
+- **LinkedIn:** [Avinash  on LinkedIn](https://www.linkedin.com/in/avinash-nandipati/)
 
 These platforms reflect my certifications, Trailhead achievements, and professional background.
 
@@ -48,7 +47,7 @@ These platforms reflect my certifications, Trailhead achievements, and professio
 
 ##  Contact & Connect
 Feel free to connect with me for collaboration or to learn more:
-- **LinkedIn:** [Avinash N](https://www.linkedin.com/in/avinash-nandipati/)  
+- **LinkedIn:** [Avinash ](https://www.linkedin.com/in/avinash-nandipati/)  
 - **Email:** [nandipatiavinash19@gmail.com]
 
 ---
