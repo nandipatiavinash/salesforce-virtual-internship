@@ -33,7 +33,7 @@ Over a span of 8 weeks, I completed a comprehensive curriculum blending **Platfo
 
 ##  Certificate of Completion
 You can view my official internship certificate here:  
-`certificate/salesforce_virtual_internship.pdf`
+`Avinash_Nandipati_Salesforce.pdf`
 
 ---
 
